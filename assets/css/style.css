@@ -1,15 +1,19 @@
-.flex{
+.flex {
   display: flex;
   align-items: center;
-  
+  gap: 5px;
+
 }
-.width{
+
+.width {
   width: 225px;
 
 }
-.padding{
-  padding:10px ;
+
+.padding {
+  padding: 10px;
 }
+
 .profile-pic {
   position: relative;
   max-width: 130px;
